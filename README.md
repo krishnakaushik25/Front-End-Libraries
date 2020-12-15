@@ -1,7 +1,7 @@
 # Front-End-Libraries
 FreeCodeCamp Front End Libraries Projects 
 
-Projects that I have completed while going through the FreeCodeCamp Curriculum of Front End Libraries[freeCodeCamp](https://www.freecodecamp.org/learn/).
+Projects that I have completed while going through the FreeCodeCamp Curriculum of Front End Libraries[(freeCodeCamp)](https://www.freecodecamp.org/learn/).
 ## Random-Quote-Machine
 Build a Random Quote Machine
 
