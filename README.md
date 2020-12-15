@@ -20,7 +20,7 @@ Enjoy!
    
   4. Build a Javascript Calculator - [View On Github](https://krishnakaushik25.github.io/javascript-calculator/).
    
-  5. Build a Pomodoro Clock - [View On Github](https://kudeh.github.io/freecodecamp-projects/Front-End-Libraries-Projects/Build%20a%20Pomodoro%20Clock/).
+  5. Build a Pomodoro Clock - [View On Github]( https://krishnakaushik25.github.io/Pomodoro-Clock/).
 
 # Support
 If you like this repo and find it useful, please consider (★) starring it (on top right of the page).
