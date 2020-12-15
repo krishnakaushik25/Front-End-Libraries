@@ -153,7 +153,7 @@ class Calculator extends React.Component {
       </div>
       <div id="footer">
 		    <h4>Designed and Coded By</h4>
-		    <h4 id="author"><a href="https://github.com/kudeh/freecodecamp-projects">Kene Udeh</a></h4>
+		    <h4 id="author"><a href="https://github.com/krishnakaushik25/Front-End-Libraries">Krishna Kaushik</a></h4>
 	    </div>
       </React.Fragment>
     )
