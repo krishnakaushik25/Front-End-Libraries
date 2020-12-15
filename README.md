@@ -18,7 +18,7 @@ Enjoy!
  
   3. Build a Drum Machine - [View On Github](https://kudeh.github.io/freecodecamp-projects/Front-End-Libraries-Projects/Build%20a%20Drum%20Machine/).
    
-  4. Build a Javascript Calculator - [View On Github](https://kudeh.github.io/freecodecamp-projects/Front-End-Libraries-Projects/Build%20a%20Javascript%20Calculator/).
+  4. Build a Javascript Calculator - [View On Github](https://krishnakaushik25.github.io/javascript-calculator/).
    
   5. Build a Pomodoro Clock - [View On Github](https://kudeh.github.io/freecodecamp-projects/Front-End-Libraries-Projects/Build%20a%20Pomodoro%20Clock/).
 
