@@ -7,12 +7,7 @@ Build a Random Quote Machine
 
 It makes up the second part of my coding part in freecodecamp.org as part of Front End Libraries Projects.
 
-You can see this project live at the following URL:
-https://krishnakaushik25.github.io/Random-Quote-Machine/
-
-Enjoy!
-
-Enjoy!
+You can see this project live at the following URL:[View On Github](https://krishnakaushik25.github.io/Random-Quote-Machine/)
 
   2. Build a Markdown Previewer - [View On Github](https://kudeh.github.io/freecodecamp-projects/Front-End-Libraries-Projects/Build%20a%20Markdown%20Previewer/).
  
